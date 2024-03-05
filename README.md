@@ -9,7 +9,7 @@ El clasico juego del ahorcado en español con un estilo pixelado ambientado en e
 ## Acerca del Proyecto
 
 Desarrollado en **Java** con **jdk 18**
-- [Documentation](#documentation)
+- [Documentation](#documentation) 
 
 ## Documentation
 
@@ -88,4 +88,6 @@ public static ArrayList<Palabra> obtener() {
 ```
 
 Además de esto tiene funciones como el **coger una palabra aleatoria** de la lista, **crear la lista de los guiones**, **convertir una lista en cadena** util para comprobar las letras faltantes o **cambiar los guiones por las letras**.
+
+(Documentación en desarrollo)
 
